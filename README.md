@@ -1,3 +1,3 @@
-# sapceinvaders
+# spaceinvaders
 
 Game criado em python seguindo o tutorial apresentado no vídeo do YouTube https://youtu.be/o-6pADy5Mdg do canal Clear Code...
